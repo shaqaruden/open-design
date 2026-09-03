@@ -1,5 +1,9 @@
 <h1 align="center">OpenDesign: The open-source Claude Design alternative</h1>
 
+**UNOFFICIAL FORK**
+
+I forked the original repo to bring back the nix module and flake that was removed a few days ago at the time of writing this. I will not be adding my own new features or making any other changes. This repo is sole responsibility will be to maintain the nixos, flake and home-manager modules for open-design as it is updated. If your issues are to do with the nix packaging of open-design submit them here otherwise submit those to the official repo and when fixes are committed they will be brought in here.
+
 > ⚡ **[OpenDesign Cloud — the official model service.](https://open-design.ai/zh/pricing/)** One recharge to use both agent and image models inside OpenDesign: GPT, Claude, and DeepSeek for agents; GPT Image 2.0, Seedream 5.0 Pro, and Nano Banana 2.0 for images.
 >
 > 🚀 **[DeepSeek V4 Flash and V4 Pro are now available.](https://open-design.ai/zh/pricing/)** Put top-tier intelligence to work across prototypes, decks, design systems, and everyday agent tasks. OpenDesign members can use both models without limits for two weeks, directly inside the app.
