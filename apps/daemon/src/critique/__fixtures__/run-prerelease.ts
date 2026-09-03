@@ -42,7 +42,7 @@ const ADAPTERS: readonly PrereleaseAdapter[] = [
 
 /**
  * Anchor the run at the project's `.od/` data dir by default; the
- * Playwright and other supervised runtimes that already set
+ * Home Manager / NixOS / Playwright runtimes that already set
  * `OD_DATA_DIR` keep their isolation here too.
  */
 function resolveDataDir(): string {
